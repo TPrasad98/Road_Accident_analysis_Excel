@@ -26,7 +26,7 @@ You can find the relevant visualizations in the directory. These visual aids hel
 
 To view the visual representations of the analysis, please refer to the following links:
 
-1. [Visualization 1]!(https://github.com/TPrasad98/Road_Accident_analysis_Excel/blob/main/Screenshot%202024-02-15%20081607.png)
+1. ![Visualization 1](https://github.com/TPrasad98/Road_Accident_analysis_Excel/blob/main/Screenshot%202024-02-15%20081607.png)
 2. [Visualization 2](link_to_visualization_2.png)
 
 
