@@ -34,7 +34,7 @@ To view the visual representations of the analysis, please refer to the followin
 
 Feel free to reach out to me on LinkedIn if you have any questions or would like to collaborate further:
 
-[Your LinkedIn Profile](https://www.linkedin.com/in/your_profile_id)
+[Your LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7163747639006621696/)
 
 ## Contributing
 
